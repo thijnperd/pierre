@@ -94,6 +94,8 @@ header img {
 
 .pierre-donker {
     background-color: #091E09;
+    margin-bottom: 3%;
+    margin-top: 3%;
 }
 
 .pierre-donker p {
@@ -101,10 +103,11 @@ header img {
     text-align: right;
     margin-right: 1%;
     font-size: 2rem;
+    margin-bottom: 1%;
 }
 
 .pierre-donker h3 {
-    color: #f8fff7;
+    color: #43a047;
     text-align: right;
     margin-right: 1%;
     margin-top: 4%;
@@ -114,19 +117,21 @@ header img {
 
 .pierre-licht {
     background-color: #f8fff7;
+    margin-bottom: 3%;
+    margin-top: 3%;
 }
 
 .pierre-licht p {
     color: #091E09;
     text-align: left;
-    margin-right: 1%;
+    margin-left: 1%;
     font-size: 2rem;
 }
 
 .pierre-licht h3 {
-    color: #091E09;
+    color: #43a047;
     text-align: left;
-    margin-right: 1%;
+    margin-left: 1%;
     margin-top: 4%;
     font-size: 2.5rem;
 
@@ -142,10 +147,10 @@ header img {
 
 .button {
     margin: 1%;
-    color: #091e09;
+    color: #f8fff7;
     text-align: center;
     padding: 20px;
-    background-color: #f8fff7;
+    background-color: #43a047;
     border-radius: 25px;
     width: 200px; 
     box-sizing: border-box;
@@ -159,8 +164,8 @@ header img {
 }
 
 .button:hover {
-    background-color: #43a047; 
-    color: #f8fff7;
+    background-color: #f8fff7; 
+    color: #091E09;
 
 }
 
